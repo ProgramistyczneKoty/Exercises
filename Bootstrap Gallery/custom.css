@@ -14,6 +14,7 @@ body {
 
 .jumbotron {
     background: #EFF7F2;
+    text-align: justify;
 }
 
 .flex {
@@ -22,4 +23,8 @@ body {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+}
+
+footer {
+    text-align: center;
 }
